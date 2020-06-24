@@ -1,7 +1,7 @@
 
   body {
     color:rgba(180, 21, 185, 0.89);
-    background-image: url("..//first-project/images/vusal3.jpg");
+    background-image: url("..//first-project/images/vusal2.jpg");
      background-repeat: no-repeat;
      background-position:center;
      background-size:cover;
@@ -11,6 +11,7 @@
  h1 {
      display: block;
      text-align:center;font-size: 70px;
+     font-family: 'Satisfy', cursive;
  }
 
  .img-div{
@@ -21,6 +22,6 @@
  .img-div img{
      display: block;
      margin: auto;
-     width: 350px; height: 300px;
+     width: 250px; height: 300px;
      
  }
